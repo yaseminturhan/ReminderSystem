@@ -1,0 +1,6 @@
+1___Sat-May-11-14:11:04-EET-2019___1000.0___15.0___DAILY___kory
+2___Mon-May-13-00:13:13-EET-2019___50000.0___5.0___MONTHLY___yasminturha
+3___Mon-May-13-00:14:39-EET-2019___100000.0___12.0___ANNUAL___yasminturha
+4___Mon-May-13-00:16:33-EET-2019___1.0E7___4.0___DAILY___yasminturha
+5___Tue-May-14-17:50:51-EET-2019___50.0___5.0___DAILY___yasminturha
+6___Tue-May-14-22:55:46-EET-2019___700.0___5.0___DAILY___yasminturhan1

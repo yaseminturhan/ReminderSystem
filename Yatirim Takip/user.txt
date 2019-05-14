@@ -1,0 +1,5 @@
+3___Tue-May-14-18:18:54-EET-2019___Yasemin___Turhan___yasminturhan3___1234___5000.0 ___ 0.0 ___ meslek ___ ogrenci
+4___Tue-May-14-18:18:54-EET-2019___Yasemin___Turhan___yasminturhan4___1234___5000.0 ___ 0.0 ___ meslek ___ ogrenci
+5___Tue-May-14-18:18:54-EET-2019___Yasemin___Turhan___yasminturhan5___1234___5000.0 ___ 0.0 ___ meslek ___ ogrenci
+6___Tue-May-14-18:18:54-EET-2019___Yasemin___Turhan___yasminturhan6___1234___5000.0 ___ 0.0 ___ meslek ___ ogrenci
+1___Tue-May-14-18:40:21-EET-2019___Taner___Turhan___yasminturhan1___1234___5000.0 ___ 0.0 ___ meslek ___ ogrenci
